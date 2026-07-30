@@ -1,0 +1,34 @@
+# Better Growth Certificate OS
+
+De plugin van de Better Growth **Certificate Track: AI-driven growth**. Bouw een volledig GTM-systeem met Claude Code: 11 context-docs, een specs-workflow voor je eigen skills, en GitHub-backup.
+
+## Installeren
+
+In Claude Code (of Cowork):
+
+```
+/plugin marketplace add BinaryBjorn/bettergrowth-certificate-os
+```
+
+en installeer daarna de plugin `certificate-os`.
+
+## De vier skills
+
+| Skill | Wat hij doet |
+|---|---|
+| `/start-setup` | Bouwt de volledige projectstructuur (11 context-docs, CLAUDE.md, input/, output/, specs/) en vult de docs. Heb je al een masterclass-project met de 3 docs? Geef het pad en hij neemt je werk mee. |
+| `/understand-me-better` | De universele grill. Leg hem je business voor en hij scherpt je context-docs aan. Leg hem je skill-plan voor en hij schrijft `specs/skill-plan.md`. Leg hem één skill-idee voor en hij schrijft er een spec voor. |
+| `/system-audit` | Read-only check van het hele systeem: frontmatter, verwijzingen, duplicatie, veroudering, en of je specs en skills nog kloppen. |
+| `/bewaar-op-github` | Bewaart je project in een **privé** GitHub-repo. Eerste keer: repo aanmaken. Daarna: wijzigingen opslaan. Het afsluitritueel van elke werksessie. |
+
+## Updates ophalen
+
+Claude ververst een marketplace **niet vanzelf**. Nieuwe versie binnenhalen doe je met één commando:
+
+```
+/plugin marketplace update bettergrowth-certificate
+```
+
+## Voor wie
+
+Deelnemers van de Better Growth Certificate Track (GTM × AI). Voorkennis: de masterclass "Accelereer je groei met Claude" of vlot met Claude kunnen werken.

@@ -1,0 +1,13 @@
+{
+  "name": "bettergrowth-certificate",
+  "owner": {
+    "name": "Bjorn Vanden Broeck (Better Growth)"
+  },
+  "plugins": [
+    {
+      "name": "certificate-os",
+      "source": "./",
+      "description": "Better Growth Certificate OS: bouw een volledig GTM-systeem met Claude Code. 11 context-docs, specs-workflow en GitHub-backup."
+    }
+  ]
+}
