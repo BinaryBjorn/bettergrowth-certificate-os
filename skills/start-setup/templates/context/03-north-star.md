@@ -2,6 +2,7 @@
 title: North star
 description: Dé metric waar het bedrijf op optimaliseert, de ondersteunende KPI's en de strategische prioriteiten voor deze periode.
 authority: "Bron van waarheid voor primaire metric, KPI's en strategische prioriteiten. Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---

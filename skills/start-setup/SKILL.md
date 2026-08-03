@@ -112,7 +112,33 @@ For each doc:
 
 `04-icp.md` is best built *from references*: real customer names or logos ARE the ICP signal — research each account, synthesize the pattern, present a draft. `08-concurrenten.md` likewise: ask for 2-3 names the user loses deals to and research them (Apify/Firecrawl if connected). Confirm only what you truly cannot derive.
 
-## When done
+### Status field (always)
 
-- Set `last-reviewed:` in `context/README.md` to today.
+Every time you write a context doc, set its frontmatter `status:` honestly:
+
+- `leeg` — nothing real in it yet.
+- `ontwerp` — YOU derived it (from a website, docs, a client list) and the user has not confirmed it.
+- `deels` — partially filled or confirmed.
+- `gevuld` — complete and confirmed by the user.
+
+Never mark something `gevuld` that the user didn't confirm. `ontwerp` is a feature, not a failure: it means "ik heb dit voor je afgeleid, bevestig of corrigeer".
+
+## When done — de contextmeter (vast slot van élke run)
+
+End EVERY start-setup run (also partial ones) with the **contextmeter**, in this fixed format:
+
+```
+## Contextmeter · N/11 gevuld
+
+| Doc | Status | Wat er fundamenteel mist |
+|---|---|---|
+| 01 Bedrijf | gevuld | — |
+| 03 North star | leeg | dé metric + prioriteiten (kan alleen van jou komen) |
+| 04 ICP | ontwerp | afgeleid uit je klantenlijst — bevestig of corrigeer |
+| … | | |
+```
+
+- "Wat er fundamenteel mist" = de 1-3 kern-secties die nog `[TODO]` zijn of onbevestigd, in gewone taal. Geen sectie-opsomming.
+- Close with ONE line: *"Grootste gat nu: <doc>. Vullen? Eén vraag en we zijn vertrokken."* — an offer, never a demand.
+- Also set `last-reviewed:` in `context/README.md` to today.
 - Recommend, in this order: `/system-audit` to validate, `/understand-me-better` for docs that still feel vague, and **`/bewaar-op-github`** to save the day's work. Day-1 goal of the track: context af én op GitHub.

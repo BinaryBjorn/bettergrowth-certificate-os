@@ -15,7 +15,19 @@ The user is a Better Growth certificate track participant. Report in **Dutch**, 
 2. **Read `context/README.md`** — load the source-of-truth table and the modularity rule.
 3. **Inventory all markdown files** in the project.
 
-## Zes checks (run all, report all)
+## Zeven checks (run all, report all)
+
+### Check 0 — De contextmeter (altijd eerst)
+
+Open the report with the contextmeter: per context-doc the frontmatter `status:` (leeg / ontwerp / deels / gevuld) plus, for anything below `gevuld`, the 1-3 **fundamental** gaps in plain language (kern-secties still `[TODO]`, derived-but-unconfirmed content). Format:
+
+```
+## Contextmeter · N/11 gevuld
+
+| Doc | Status | Wat er fundamenteel mist |
+```
+
+Cross-check: if a doc's `status:` says `gevuld` but the body still has `[TODO]`'s in core sections, flag the mismatch. Close the section with one line: *"Grootste gat nu: <doc>."* Sturen op volledigheid, nooit verplichten.
 
 ### Check 1 — Frontmatter
 

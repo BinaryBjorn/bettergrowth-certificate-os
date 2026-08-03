@@ -1,7 +1,7 @@
 {
   "name": "certificate-os",
   "description": "Better Growth Certificate OS: bouw en onderhoud een volledig GTM-systeem met Claude Code. Vier skills: /start-setup (bouwt de structuur en vult je 11 GTM-docs, ook vanuit een bestaand masterclass-project), /understand-me-better (de universele grill: scherpt context aan en schrijft specs voor je skills), /system-audit (checkt structuur, docs en specs) en /bewaar-op-github (bewaart je project veilig in een prive GitHub-repo).",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Bjorn Vanden Broeck (Better Growth certificate track)"
   }

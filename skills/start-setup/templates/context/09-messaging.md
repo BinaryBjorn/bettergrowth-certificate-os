@@ -2,6 +2,7 @@
 title: Messaging
 description: Kernboodschap, signature-zinnen, voice-ankers en messaging per funnel-fase.
 authority: "Bron van waarheid voor de messaging-laag (kernboodschap, voice, invalshoeken per fase). Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---

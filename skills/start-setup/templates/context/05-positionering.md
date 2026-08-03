@@ -2,6 +2,7 @@
 title: Positionering
 description: Kernpositie, differentiators en de principes die bepalen hoe het bedrijf zich in de markt toont.
 authority: "Bron van waarheid voor positioneringsstatement, differentiators en merkprincipes. Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: jaarlijks (review per kwartaal)
 ---

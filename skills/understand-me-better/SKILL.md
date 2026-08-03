@@ -33,7 +33,7 @@ Twijfel je welke van de drie het is? Vraag het in één zin. ("Wil je je hele pl
 
 ### GTM-onderwerp → context-docs
 
-Write the sharpened decision straight into the right `context/` doc, respecting the source-of-truth table in `context/README.md` (never duplicate across docs). Update `last-reviewed:`.
+Write the sharpened decision straight into the right `context/` doc, respecting the source-of-truth table in `context/README.md` (never duplicate across docs). Update `last-reviewed:` **and the frontmatter `status:`** (a confirmed `ontwerp` becomes `gevuld`; a partially answered doc becomes `deels`). When a grill session confirms a derived doc, say so: *"04-icp staat nu op gevuld."*
 
 ### Skill-plan → `specs/skill-plan.md`
 

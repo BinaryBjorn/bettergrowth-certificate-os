@@ -2,6 +2,7 @@
 title: Kanalen
 description: Kanalen in gebruik, de strategische rol per kanaal en funnel-mapping.
 authority: "Bron van waarheid voor kanalenoverzicht en de strategische rol per kanaal. Operationele cadans/budget leeft in sub-bestanden als die er komen."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---

@@ -2,6 +2,7 @@
 title: ICP (Ideal Customer Profile)
 description: Aan wie je verkoopt, het buying committee, kwalificatie-triggers en tiers indien gebruikt.
 authority: "Bron van waarheid voor ICP-definitie, segmentgrenzen, buying committee en tiers. Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: jaarlijks (review per kwartaal)
 ---

@@ -2,6 +2,7 @@
 title: Buyer persona's
 description: Diep op de mensen binnen de ICP — hun context, pijnen, doelen, beslissingscriteria en informatiedieet.
 authority: "Bron van waarheid voor de primaire buyer persona's. De ICP-definitie leeft in 04-icp.md; dit bestand gaat diep op de mensen."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---

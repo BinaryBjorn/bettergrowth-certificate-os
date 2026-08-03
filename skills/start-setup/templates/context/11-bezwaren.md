@@ -2,6 +2,7 @@
 title: Bezwaren
 description: Waar kopers op afhaken, en hoe je antwoordt — per dienst en per persona.
 authority: "Bron van waarheid voor bezwaar-afhandeling. Gevoed door salescalls, lost-deal-gesprekken, supporttickets."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---

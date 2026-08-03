@@ -2,6 +2,7 @@
 title: Bedrijf
 description: Wie jullie zijn, op feitelijk niveau. Identiteit, missie, visie, leiderschap, contact.
 authority: "Bron van waarheid voor bedrijfsfeiten (oprichtingsjaar, grootte, locaties, leiderschap, groepsstructuur). Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: jaarlijks
 ---

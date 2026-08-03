@@ -102,6 +102,7 @@ Elk doc heeft:
 ---
 title: <naam>
 description: <één zin>
+status: <leeg / ontwerp / deels / gevuld>
 last-reviewed: <YYYY-MM-DD>
 refresh-cadens: <jaarlijks / per kwartaal>
 authority: "<alleen op bron-van-waarheid-docs — welk onderwerp dit bestand bezit>"
@@ -109,6 +110,8 @@ authority: "<alleen op bron-van-waarheid-docs — welk onderwerp dit bestand bez
 ```
 
 `/start-setup` zet deze voor je. `/system-audit` controleert ze.
+
+**`status:`** is de contextmeter-waarde: `leeg` (nog niets), `ontwerp` (door Claude afgeleid, nog niet door jou bevestigd), `deels` (gedeeltelijk gevuld), `gevuld` (compleet en bevestigd).
 
 ---
 

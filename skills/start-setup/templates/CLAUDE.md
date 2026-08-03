@@ -29,6 +29,10 @@ Wanneer de gebruiker een **nieuwe skill wil bouwen**, stel dan voor om eerst `/u
 
 Statussen in `specs/skill-plan.md`: `gepland` → `gespecced` → `gebouwd` → `getest`. Werk de status bij wanneer een stap gezet is.
 
+## De contextmeter-nudge (zacht)
+
+Elke context-doc heeft een `status:` in de frontmatter (leeg / ontwerp / deels / gevuld). Bij het begin van betekenisvol werk: staan er fundament-docs (01 t/m 05) nog niet op `gevuld`, meld dat dan één keer, in één regel: *"Contextmeter: 7/11 · grootste gat: north-star. Wil je die eerst vullen?"* Maximaal één nudge per sessie. **Nooit blokkeren**: wil de gebruiker doorwerken, werk door. Outputs die op een `ontwerp`- of `leeg`-doc steunen mogen dat in één zin vermelden.
+
 ## Werkregels
 
 - **Lees `context/README.md` eerst** bij elk niet-trivialer werk.

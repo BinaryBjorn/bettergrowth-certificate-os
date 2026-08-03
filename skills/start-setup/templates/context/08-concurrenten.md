@@ -2,6 +2,7 @@
 title: Concurrenten
 description: Directe en indirecte concurrenten, met de wedge / counter-positionering per concurrent.
 authority: "Bron van waarheid voor het concurrentielandschap en counter-positionering. Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---

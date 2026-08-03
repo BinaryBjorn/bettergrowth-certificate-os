@@ -2,6 +2,7 @@
 title: Diensten
 description: Diensten- / productportfolio, capabilities en pricing-discipline.
 authority: "Bron van waarheid voor dienstenportfolio, capabilities en pricing-aanpak. Bij conflict wint dit bestand."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: jaarlijks (review per kwartaal)
 ---

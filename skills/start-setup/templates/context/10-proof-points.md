@@ -2,6 +2,7 @@
 title: Proof points
 description: Testimonials, cijfers, social proof en de claims-discipline die ze beschermt.
 authority: "Bron van waarheid voor proof points en claims-discipline. Elke claim elders moet naar dit bestand te herleiden zijn."
+status: leeg
 last-reviewed: TODO
 refresh-cadens: per kwartaal
 ---
