@@ -23,11 +23,23 @@ en installeer daarna de plugin `certificate-os`.
 
 ## Updates ophalen
 
-Claude ververst een marketplace **niet vanzelf**. Nieuwe versie binnenhalen doe je met één commando:
+Claude ververst een plugin **niet vanzelf**. Een nieuwe versie binnenhalen gaat in twee stappen, daarna herstart je Claude Code.
 
-```
-/plugin marketplace update bettergrowth-certificate
-```
+1. Haal de nieuwe versie van de marketplace op:
+
+   ```
+   /plugin marketplace update bettergrowth-certificate
+   ```
+
+2. Werk de geïnstalleerde plugin bij. Typ `/plugin`, open de geïnstalleerde plugin `certificate-os` en kies bijwerken. Of in een terminal:
+
+   ```
+   claude plugin update certificate-os@bettergrowth-certificate
+   ```
+
+3. Herstart Claude Code (of open een nieuw venster). Pas dan werkt de nieuwe versie.
+
+Welke versie je hebt, zie je met `claude plugin list`.
 
 ## Voor wie
 
