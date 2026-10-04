@@ -17,7 +17,7 @@ en installeer daarna de plugin `certificate-os`.
 | Skill | Wat hij doet |
 |---|---|
 | `/start-setup` | Bouwt de volledige projectstructuur (11 context-docs, CLAUDE.md, input/, output/, specs/) en vult de docs. Heb je al een masterclass-project met de 3 docs? Geef het pad en hij neemt je werk mee. |
-| `/understand-me-better` | De universele grill. Leg hem je business voor en hij scherpt je context-docs aan. Leg hem je skill-plan voor en hij schrijft `specs/skill-plan.md`. Leg hem één skill-idee voor en hij schrijft er een spec voor. |
+| `/understand-me-better` | De universele grill. Leg hem je business voor en hij scherpt je context-docs aan. Leg hem je skill-plan voor en hij schrijft `specs/skill-plan.md`. Leg hem één skill-idee voor en hij bepaalt eerst of het een werkwijze-skill (vaste stappen) of een kennis-skill (regels en kwaliteitslat) wordt, en schrijft er dan een spec voor. |
 | `/system-audit` | Read-only check van het hele systeem: frontmatter, verwijzingen, duplicatie, veroudering, en of je specs en skills nog kloppen. |
 | `/bewaar-op-github` | Bewaart je project in een **privé** GitHub-repo. Eerste keer: repo aanmaken. Daarna: wijzigingen opslaan. Het afsluitritueel van elke werksessie. |
 

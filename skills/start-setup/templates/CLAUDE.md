@@ -27,6 +27,8 @@ De volledige bron-van-waarheid-tabel staat in `context/README.md`. Lees die voor
 
 Wanneer de gebruiker een **nieuwe skill wil bouwen**, stel dan voor om eerst `/understand-me-better` te draaien zodat er een spec ligt in `specs/` en `specs/skill-plan.md` wordt bijgewerkt. **Stel het voor, dwing het nooit af.** Wil de gebruiker meteen bouwen, dan bouw je meteen; noteer hoogstens achteraf een korte spec.
 
+Een skill is een **werkwijze-skill** (vaste stappen, Claude volgt de route) of een **kennis-skill** (regels en een kwaliteitslat, Claude kiest de route). Bouw hem in de vorm van zijn soort; de spec zegt welke.
+
 Statussen in `specs/skill-plan.md`: `gepland` → `gespecced` → `gebouwd` → `getest`. Werk de status bij wanneer een stap gezet is.
 
 ## De contextmeter-nudge (zacht)
