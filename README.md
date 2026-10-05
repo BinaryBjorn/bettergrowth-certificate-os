@@ -43,4 +43,4 @@ Welke versie je hebt, zie je met `claude plugin list`.
 
 ## Voor wie
 
-Deelnemers van de Better Growth Certificate Track (GTM × AI). Voorkennis: de masterclass "Accelereer je groei met Claude" of vlot met Claude kunnen werken.
+Deelnemers van de Better Growth Certificate in AI-Driven Growth. Voorkennis: de masterclass "Accelereer je groei met Claude" of vlot met Claude kunnen werken.
